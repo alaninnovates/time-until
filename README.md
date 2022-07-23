@@ -1,1 +1,1 @@
-# Time until class
+# Time until
