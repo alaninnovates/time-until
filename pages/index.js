@@ -94,7 +94,7 @@ export default function Home() {
 				<h1>Pick a time</h1>
 				<LocalizationProvider dateAdapter={AdapterDayjs}>
 					<TimePicker
-						label="Basic example"
+						label="Time"
 						value={time}
 						onChange={(val) => setTime(val)}
 						renderInput={(params) => <TextField {...params} />}
